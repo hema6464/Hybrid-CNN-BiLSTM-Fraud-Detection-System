@@ -50,3 +50,21 @@ Batch size: 256
 Learning rate: 1e‑3
 
 Loss Function: Weighted focal loss
+
+🚀 Future Work
+Integration with graph neural networks for relational fraud detection.
+
+Federated learning for privacy‑preserving fraud detection.
+
+Contrastive pretraining for better temporal embeddings.
+
+📫 Contact
+👩‍💻 Author: Hemamalini S
+
+📧 Email: hemamalini1455@gmail.com
+
+🌐 Portfolio: Portfolio Website
+
+💻 GitHub: hema6464
+
+✨ “Elegant deep learning solutions for real‑world fraud detection.”
